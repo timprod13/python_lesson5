@@ -1,0 +1,4 @@
+Informatika: 100 50 20
+Fizika: 30 0 10
+Fizkultura: 0 30 0
+Pedagogika: 15 21 22
